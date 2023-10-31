@@ -2,7 +2,6 @@
 <h3 align="center">Full-stack developer specialised in Ruby on Rails</h3>
 
 - 🌍 from France, based in Barcelona
-- 🌱 currently learning **React**
 - 📧 feel free to contact me at **adelinedegaulejac@gmail.com**
 - 💼 check out my work experiences on my LinkedIn - [https://www.linkedin.com/in/adeline-degaulejac](https://www.linkedin.com/in/adeline-degaulejac/?locale=en_US)
 - 🇫🇷🇺🇸🇪🇸
